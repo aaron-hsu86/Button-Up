@@ -1,0 +1,23 @@
+#search {
+    width: 100px;
+    color: aqua;
+    background-color: white;
+    border-radius: 50px;
+    border-color: aqua;
+    border-style: solid;
+}
+#plus {
+    color: white;
+    background-color: turquoise;
+    border-radius: 50%;
+    border-style: hidden;
+    border-color: unset;
+}
+#create_account {
+    width: 150px;
+    color: white;
+    background-color: blue;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 3px 3px black;
+}
